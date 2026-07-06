@@ -1,0 +1,17 @@
+/* Removed tailwind imports, completely plain CSS */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+  color: #111;
+}
+
+input, button {
+  font-family: inherit;
+}
