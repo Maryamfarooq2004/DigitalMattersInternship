@@ -55,7 +55,7 @@ export default function LoginPage() {
                 </button>
             </form>
             <p style={{ marginTop: "20px" }}>
-                Don't have an account? <a href="/signup" style={{ textDecoration: "underline" }}>Sign up</a>
+                Don&apos;t have an account? <a href="/signup" style={{ textDecoration: "underline" }}>Sign up</a>
             </p>
         </div>
     );
